@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jirasin
-- 👀 I’m interested in coding and AI
-- 🌱 I’m currently learning coding 
+- 🌱 I’m currently learning coding
+- Thank you for watching
 
 <!---
 JirasinTan/JirasinTan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
